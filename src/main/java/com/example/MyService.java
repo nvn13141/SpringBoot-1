@@ -9,7 +9,7 @@ public class MyService {
 	@RequestMapping("/Hello")
 	public String hello()
 	{
-		return "Hello";
+		return "kishore Devops Training Bangalore";
 	}
 	
 }
