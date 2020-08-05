@@ -53,3 +53,10 @@
 
 
 </project>
+<distributionManagement>
+  <snapshotRepository>
+    <id>snapshots</id>
+    <url>http://15.207.110.178:8081/nexus/content/repositories/snapshots</url>
+  </snapshotRepository>
+</distributionManagement>
+
