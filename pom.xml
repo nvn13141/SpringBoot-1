@@ -40,13 +40,13 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<distributionManagement>
-          <snapshotRepository>
-          <id>snapshots</id>
-          <url>http://13.127.215.57:8081/nexus/content/repositories/snapshots</url>
-          </snapshotRepository>
-        </distributionManagement>
 	
+	<distributionManagement>
+  <snapshotRepository>
+    <id>snapshots</id>
+    <url>http://13.233.150.162:8081/nexus/content/repositories/snapshots</url>
+  </snapshotRepository>
+</distributionManagement>
 
 
 	<build>
